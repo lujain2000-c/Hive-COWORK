@@ -20,6 +20,9 @@ https://lucid.app/lucidchart/f5c7b27b-a6f2-439d-856d-ba32ae5250cb/edit?viewport_
 Figma:
 https://www.figma.com/file/1ldqthNAzOCwR5E4JU0cu5/Untitled?type=design&node-id=0%3A1&mode=design&t=ouTxps6TYAR7mUbB-1
 
+Postman:
+
+https://documenter.getpostman.com/view/28989519/2s9YC2zto3#b8272131-aca7-46d9-8c88-0c884e8f9e94
 
 presentation:
 https://www.canva.com/design/DAFuH9WR6JU/pqYrdI5aILafyglLdfvhcw/view?utm_content=DAFuH9WR6JU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
@@ -36,7 +39,7 @@ rejectBooking
 getAllBookingsByClient
 getAllBookingsByCompany
 updateSchedule
-Confirm company  account
+RejectCompanyAccount
 Add security for booking
 Add security for client
 Add security for company
